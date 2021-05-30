@@ -1,0 +1,56 @@
+body {
+    font-family: sans-serif;
+}
+header a{
+    border: 7px solid  #9400D3;
+    text-decoration: none;
+    color: #FFDAB9;
+    background-color: black;
+    margin: 10pxpx;
+    padding: 5px;
+}
+nav a{
+    text-decoration: none;
+    color: #FFDAB9;
+    background-color: black;
+    border: 7px solid  #9400D3;
+    margin: 10px;
+
+}
+footer img {
+    height: 40px;
+    widht: 40px;
+    border: 7px solid  #9400D3;
+    text-decoration: none;
+    background-color: black;
+
+}
+ul {
+    color: #FFDAB9;
+    background-color: black;
+}
+h1 {
+    color: #FFDAB9;
+    background-color: black;
+}
+footer {
+    background-color: black;
+}
+header {
+    margin-bottom: 20px;
+    margin-left: 10px;
+    color: #FFDAB9;
+}
+main {
+    background-color: black;
+    color: #FFDAB9;
+}
+main p{
+    color: #FFDAB9;
+}
+p a{
+    color: #FFDAB9;
+}
+p a:hover{
+    color: #F0E68C;
+}
